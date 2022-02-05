@@ -6,7 +6,15 @@ title: 'Assignment 1: Metaphor and Design'
 uid: 9f2123f3-abba-c91a-b267-31129eab35ce
 ---
 
-| « Back: [Assignments]({{< baseurl >}}/pages/assignments) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The physical world grounds our thinking. Lakoff and Johnson argue that our more abstract thoughts are built metaphorically upon a physical foundation. The world of information is inherently formless - and in that nebulous state, very difficult for us to comprehend. Interface designs shape and define information through metaphoric structuring. Thus the Web consists of "sites" and "pages," email is put into "folders," operating systems provide "windows" and "folders."
 
@@ -52,4 +60,12 @@ Student Work
 
 [Lana Swartz](http://designingsociablemedia08.blogspot.com/2008/02/response-1-metaphor-in-social.html)
 
-| « Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

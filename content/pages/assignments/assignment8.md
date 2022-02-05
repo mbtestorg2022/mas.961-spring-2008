@@ -6,7 +6,15 @@ title: 'Assignment 8: Proposals for Final Project'
 uid: 9d0a8c43-a93d-692d-208a-9f925f3a6b73
 ---
 
-| « Back: [Assignments]({{< baseurl >}}/pages/assignments) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Your final project for the class should build on one of the assignments given during the semester. You can take one of the design sketches you or another student did as a starting point, or prepare a new take on a related problem.
 
@@ -30,4 +38,12 @@ Student Work
 
 [Lana Swartz](http://designingsociablemedia08.blogspot.com/2008/04/proposal-for-final-project.html)
 
-| « Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

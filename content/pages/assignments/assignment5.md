@@ -6,7 +6,15 @@ title: 'Assignment 5: Varieties of Portraiture'
 uid: 587cdfce-8092-a867-e787-194098fb45da
 ---
 
-| « Back: [Assignments]({{< baseurl >}}/pages/assignments) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 A portrait is a representation of an individual person. The goal of the portrait is to capture some likeness of them, something of who they are. What aspect of the person is considered important to represent is culturally dependent. Portraits of rulers from the early Medieval period often did not depict the actual appearance of the living ruler, but the "_imago_" of a Roman emperor in whose succession he felt himself to be standing, by "_tanslatio imperii_." The historical, political and social context in which the ruler wished to be viewed was the image he presented, not his own physical appearance. Indeed, our notions of identity - of the constancy of a person in different circumstances and throughout life, is to some extent culturally constructed - and as notions of identity change, so do portraits. Indeed, in the Late Middle Ages and the Renaissance, life likeness was the standard that portraiture was held to - and which was subsequently replaced by an emphasis on depicting the spiritual (and later, psychological) aspect of the subject.
 
@@ -62,4 +70,12 @@ Student Work
 
 [Lana Swartz](http://designingsociablemedia08.blogspot.com/2008/03/response-5-varieties-of-portraiture.html)
 
-| « Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

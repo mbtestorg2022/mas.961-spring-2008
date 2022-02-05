@@ -6,7 +6,15 @@ title: 'Assignment 9: Supertraces'
 uid: 7dd56fee-886b-8510-2891-950e46bc38a3
 ---
 
-| « Back: [Assignments]({{< baseurl >}}/pages/assignments) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Historically, human interaction was local and ephemeral; it was heard only by those nearby and the words, once spoken, disappeared in the passing of time. Today, however, our interactions - or observations of them - can reach across space and persist in time. Surveillance cameras open seemingly private rooms to distant and unseen observers; archives retain casual conversations and out-grown profiles, forever enabling their out-of-context and possibly inopportune re-display.
 
@@ -48,4 +56,12 @@ Student Work
 
 [Sohin Hwang](http://dsm2008.blogspot.com/2008/05/four-questions.html)
 
-| « Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

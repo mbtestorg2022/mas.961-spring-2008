@@ -6,7 +6,15 @@ title: 'Assignment 3: Mapping Conversation'
 uid: 1361b4d4-18df-b611-df2e-12b12df2acf3
 ---
 
-| « Back: [Assignments]({{< baseurl >}}/pages/assignments) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Conversations are one of the most important forms of interaction, both face-to-face and online. The information exchanged within them goes far beyond the facts that one person tells another: how people use words, whether they interrupt each other, how they use greetings, etc. provides key information about their relationships, the importance of what they are saying, and the impact of this exchange.
 
@@ -56,4 +64,12 @@ Student Work
 
 [Lana Swartz](http://designingsociablemedia08.blogspot.com/2008/03/response-3-mapping-conversations.html)
 
-| « Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

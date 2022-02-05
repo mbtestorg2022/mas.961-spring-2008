@@ -6,7 +6,15 @@ title: 'Assignment 7: Augmented Publics - Communicating Spaces'
 uid: 95132dbb-53a8-f152-1177-e0c0f39c7641
 ---
 
-| « Back: [Assignments]({{< baseurl >}}/pages/assignments) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 People are interested in other people. Many new communication technologies reflect this: online discussion forums, social networking sites, recommendation systems and other social software endeavors are tremendously popular.
 
@@ -41,4 +49,12 @@ Student Work
 
 [Lana Swartz](http://designingsociablemedia08.blogspot.com/2008/04/augmented-interaction-1-cities-art-and.html)
 
-| « Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

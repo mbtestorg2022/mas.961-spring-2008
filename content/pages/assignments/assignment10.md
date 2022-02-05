@@ -6,7 +6,15 @@ title: 'Assignment 10: Complete Final Projects'
 uid: 75b10ccd-c1db-6430-e834-74e33b5a84bb
 ---
 
-| « Back: [Assignments]({{< baseurl >}}/pages/assignments) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Student Work
 ------------
