@@ -33,7 +33,7 @@ Elmer, Greg. "[A Diagram of Panoptic Surveillance](http://nms.sagepub.com/cgi/co
 
 Foucault, Michel. "[Panopticism](http://foucault.info/documents/disciplineAndPunish/foucault.disciplineAndPunish.panOpticism.html)." Chapter 3 in _Discipline & Punish: The Birth of the Prison_. Translated from the French by Alan Sheridan. New York, NY: Vintage Books, 1995. ISBN: 9780679752554. (This is the classic work on "panoptic surveillance.")
 
-Mann, Steve, Jason Nolan, and Barry Wellman. "Sousveillance: Inventing and Using Wearable Computing Devices for Data Collection in Surveillance Environments." _Surveillance & Society_ 1, no. 3 (2003): 331-355. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://wearcam.org/cyborg_and_community/cyborg42deview.pdf))
+Mann, Steve, Jason Nolan, and Barry Wellman. "Sousveillance: Inventing and Using Wearable Computing Devices for Data Collection in Surveillance Environments." _Surveillance & Society_ 1, no. 3 (2003): 331-355. ([PDF](http://wearcam.org/cyborg_and_community/cyborg42deview.pdf))
 
 Schor, Juliet. "The Virus Unleashed: Ads Infiltrate Everyday Life," and "Dissecting the Child Consumer: The New Intrusive Research." Chapters 4 and 6 in _Born to Buy: The Commercialized Child and the New Consumer Culture_. New York, NY: Simon and Schuster, 2004. ISBN: 9780684870557. \[[Preview](http://books.google.com/books?id=4zzeoi1jU5oC&pg=PA69=onepage) in Google Books\]
 

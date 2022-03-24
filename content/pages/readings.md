@@ -94,7 +94,7 @@ Bonvillain, Nancy. "Communicative Interactions." Chapter 5 in _Language, Culture
 
 Small, David. "[Navigating Large Bodies of Text](https://ieeexplore.ieee.org/document/5387204)." _IBM Systems Journal_ 35, nos. 3-4 (1996).
 
-Donath, Judith. "Words as Landscape." Draft of paper prepared for _Beyond Threaded Conversation_, CHI Workshop, Portland, OR, April 3, 2005. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB](http://smg.media.mit.edu/papers/Donath/conversationworkshop.pdf))
+Donath, Judith. "Words as Landscape." Draft of paper prepared for _Beyond Threaded Conversation_, CHI Workshop, Portland, OR, April 3, 2005. ([PDF - 1.1MB](http://smg.media.mit.edu/papers/Donath/conversationworkshop.pdf))
 
 
 {{< tdclose >}}
@@ -214,7 +214,7 @@ What are the salient features about a person that makes them recognizable, as an
 
 Milgram, Stanley. "The Experience of Living in Cities." _Science, New Series_ 167, no. 3924 (March 13, 1970): 1461-1468.
 
-Donath, Judith. "Technological Interventions in Everyday Interaction." Essay written for the catalog of the _Act/React_ show at the Milwaukee Art Museum. 2008. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://smg.media.mit.edu/papers/Donath/EverydayInteractions.finaldraft.pdf))
+Donath, Judith. "Technological Interventions in Everyday Interaction." Essay written for the catalog of the _Act/React_ show at the Milwaukee Art Museum. 2008. ([PDF](http://smg.media.mit.edu/papers/Donath/EverydayInteractions.finaldraft.pdf))
 
 Ling, Richard. "[The Social Juxtaposition of Mobile Telephone Conversations and Public Spaces](http://www.academia.edu/1048257/The_social_juxtaposition_of_mobile_telephone_conversations_and_public_spaces)." Paper for conference on the Social Consequences of Mobile Telephones, Chunchon, Korea, July 2002.
 
@@ -266,7 +266,7 @@ Foucault, Michel. "[Panopticism](http://foucault.info/documents/disciplineAndPun
 
 This is the classic work on "panoptic surveillance".
 
-Mann, Steve, Jason Nolan, and Barry Wellman. "Sousveillance: Inventing and Using Wearable Computing Devices for Data Collection in Surveillance Environments." _Surveillance & Society_ 1, no. 3 (2003): 331-355. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://wearcam.org/cyborg_and_community/cyborg42deview.pdf))
+Mann, Steve, Jason Nolan, and Barry Wellman. "Sousveillance: Inventing and Using Wearable Computing Devices for Data Collection in Surveillance Environments." _Surveillance & Society_ 1, no. 3 (2003): 331-355. ([PDF](http://wearcam.org/cyborg_and_community/cyborg42deview.pdf))
 
 Schor, Juliet. "The Virus Unleashed: Ads Infiltrate Everyday Life," and "Dissecting the Child Consumer: The New Intrusive Research." Chapters 4 and 6 in _Born to Buy: The Commercialized Child and the New Consumer Culture_. New York, NY: Simon and Schuster, 2004. ISBN: 9780684870557. \[[Preview](http://books.google.com/books?id=4zzeoi1jU5oC&pg=PA69=onepage) in Google Books\]
 

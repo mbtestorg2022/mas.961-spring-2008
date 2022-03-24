@@ -29,7 +29,7 @@ Readings
 
 Milgram, Stanley. "The Experience of Living in Cities." _Science, New Series_ 167, no. 3924 (March 13, 1970): 1461-1468.
 
-Donath, Judith. "Technological Interventions in Everyday Interaction." Essay written for the catalog of the _Act/React_ show at the Milwaukee Art Museum. 2008. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://smg.media.mit.edu/papers/Donath/EverydayInteractions.finaldraft.pdf))
+Donath, Judith. "Technological Interventions in Everyday Interaction." Essay written for the catalog of the _Act/React_ show at the Milwaukee Art Museum. 2008. ([PDF](http://smg.media.mit.edu/papers/Donath/EverydayInteractions.finaldraft.pdf))
 
 Ling, Richard. "[The Social Juxtaposition of Mobile Telephone Conversations and Public Spaces](http://www.academia.edu/1048257/The_social_juxtaposition_of_mobile_telephone_conversations_and_public_spaces)." Paper for conference on the Social Consequences of Mobile Telephones, Chunchon, Korea, July 2002.
 

@@ -25,7 +25,7 @@ Bonvillain, Nancy. "Communicative Interactions." Chapter 5 in _Language, Culture
 
 Small, David. "[Navigating Large Bodies of Text](http://portal.acm.org/citation.cfm?id=243519.243535)." _IBM Systems Journal_ 35, nos. 3-4 (1996).
 
-Donath, Judith. "Words as Landscape." Draft of paper prepared for _Beyond Threaded Conversation_, CHI Workshop, Portland, OR, April 3, 2005. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB](http://smg.media.mit.edu/papers/Donath/conversationworkshop.pdf))
+Donath, Judith. "Words as Landscape." Draft of paper prepared for _Beyond Threaded Conversation_, CHI Workshop, Portland, OR, April 3, 2005. ([PDF - 1.1MB](http://smg.media.mit.edu/papers/Donath/conversationworkshop.pdf))
 
 Assignments
 -----------
