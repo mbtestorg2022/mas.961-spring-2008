@@ -6,7 +6,15 @@ title: 'Assignment 9: Supertraces'
 uid: 7dd56fee-886b-8510-2891-950e46bc38a3
 ---
 
-| « Back: [Assignments]({{< baseurl >}}/pages/assignments) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Historically, human interaction was local and ephemeral; it was heard only by those nearby and the words, once spoken, disappeared in the passing of time. Today, however, our interactions - or observations of them - can reach across space and persist in time. Surveillance cameras open seemingly private rooms to distant and unseen observers; archives retain casual conversations and out-grown profiles, forever enabling their out-of-context and possibly inopportune re-display.
 
@@ -25,7 +33,7 @@ Elmer, Greg. "[A Diagram of Panoptic Surveillance](http://nms.sagepub.com/cgi/co
 
 Foucault, Michel. "[Panopticism](http://foucault.info/documents/disciplineAndPunish/foucault.disciplineAndPunish.panOpticism.html)." Chapter 3 in _Discipline & Punish: The Birth of the Prison_. Translated from the French by Alan Sheridan. New York, NY: Vintage Books, 1995. ISBN: 9780679752554. (This is the classic work on "panoptic surveillance.")
 
-Mann, Steve, Jason Nolan, and Barry Wellman. "Sousveillance: Inventing and Using Wearable Computing Devices for Data Collection in Surveillance Environments." _Surveillance & Society_ 1, no. 3 (2003): 331-355. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://wearcam.org/cyborg_and_community/cyborg42deview.pdf))
+Mann, Steve, Jason Nolan, and Barry Wellman. "Sousveillance: Inventing and Using Wearable Computing Devices for Data Collection in Surveillance Environments." _Surveillance & Society_ 1, no. 3 (2003): 331-355. ([PDF](http://wearcam.org/cyborg_and_community/cyborg42deview.pdf))
 
 Schor, Juliet. "The Virus Unleashed: Ads Infiltrate Everyday Life," and "Dissecting the Child Consumer: The New Intrusive Research." Chapters 4 and 6 in _Born to Buy: The Commercialized Child and the New Consumer Culture_. New York, NY: Simon and Schuster, 2004. ISBN: 9780684870557. \[[Preview](http://books.google.com/books?id=4zzeoi1jU5oC&pg=PA69=onepage) in Google Books\]
 
@@ -48,4 +56,12 @@ Student Work
 
 [Sohin Hwang](http://dsm2008.blogspot.com/2008/05/four-questions.html)
 
-| « Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

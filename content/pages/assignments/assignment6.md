@@ -6,7 +6,15 @@ title: 'Assignment 6: Design Project 3 - Concrete and Abstract Portraits'
 uid: ecff5637-bea7-179e-1ceb-009939b6068f
 ---
 
-| « Back: [Assignments]({{< baseurl >}}/pages/assignments) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 A portrait provides a salient, recognizable, characteristic, evocative, or symbolic representation of its subject. Facial portraits are the archetypal form, unsurprising given that we are neurologically predisposed to recognizing other humans by facial structure. (If dogs were artists, perhaps they would portray each other via creatively rendered scents). But there are other forms of portraits - there have long been literary portraits, and occasional musical portraits.
 
@@ -34,4 +42,12 @@ Student Work
 
 [Lana Swartz](http://designingsociablemedia08.blogspot.com/2008/03/data-portraits-depicting-people.html)
 
-| « Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

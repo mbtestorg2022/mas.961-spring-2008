@@ -6,7 +6,15 @@ title: 'Assignment 2: Design Problem 1 - Interaction Space Design'
 uid: de5c7b0b-cd03-a90a-baa4-78077e2ec371
 ---
 
-| « Back: [Assignments]({{< baseurl >}}/pages/assignments) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 "Legible" architectures help us to understand the functions of different spaces and the behaviors that are appropriate within them. Sometimes the functionality is interent in the form: the windowless cubicle of a dressing room provides visual privacy, while the curtain-like door makes it clear that auditory privacy should not be expected. At other times, the functionality is a result of learned understanding of the meaning of the form: the lines that delineate the right from the left side of the road do not offer any physical barrier to traffic, but they provide drivers with a clear understanding of where they should be and where others will be driving. Sometimes the meaning derives from both function and culture: a room furnished with beanbag chairs invites more informal and playful conversation that one with high-backed Victorian chairs, both because of the cultural associations with such chairs, and the way of sitting that each enforces.
 
@@ -47,4 +55,12 @@ Student Work
 
 [Lana Swartz](http://designingsociablemedia08.blogspot.com/2008/02/response-2-legibility-and-abstraction.html)
 
-| « Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

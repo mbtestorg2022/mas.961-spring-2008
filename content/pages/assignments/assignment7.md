@@ -6,7 +6,15 @@ title: 'Assignment 7: Augmented Publics - Communicating Spaces'
 uid: 95132dbb-53a8-f152-1177-e0c0f39c7641
 ---
 
-| « Back: [Assignments]({{< baseurl >}}/pages/assignments) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 People are interested in other people. Many new communication technologies reflect this: online discussion forums, social networking sites, recommendation systems and other social software endeavors are tremendously popular.
 
@@ -21,7 +29,7 @@ Readings
 
 Milgram, Stanley. "The Experience of Living in Cities." _Science, New Series_ 167, no. 3924 (March 13, 1970): 1461-1468.
 
-Donath, Judith. "Technological Interventions in Everyday Interaction." Essay written for the catalog of the _Act/React_ show at the Milwaukee Art Museum. 2008. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://smg.media.mit.edu/papers/Donath/EverydayInteractions.finaldraft.pdf))
+Donath, Judith. "Technological Interventions in Everyday Interaction." Essay written for the catalog of the _Act/React_ show at the Milwaukee Art Museum. 2008. ([PDF](http://smg.media.mit.edu/papers/Donath/EverydayInteractions.finaldraft.pdf))
 
 Ling, Richard. "[The Social Juxtaposition of Mobile Telephone Conversations and Public Spaces](http://www.academia.edu/1048257/The_social_juxtaposition_of_mobile_telephone_conversations_and_public_spaces)." Paper for conference on the Social Consequences of Mobile Telephones, Chunchon, Korea, July 2002.
 
@@ -41,4 +49,12 @@ Student Work
 
 [Lana Swartz](http://designingsociablemedia08.blogspot.com/2008/04/augmented-interaction-1-cities-art-and.html)
 
-| « Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back: [Assignments]({{< baseurl >}}/pages/assignments)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

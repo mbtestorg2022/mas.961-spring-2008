@@ -26,24 +26,252 @@ Grading
 
 Approximately:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| In-class participation in discussion and critique | 50% |
-| On the design assignments - graded on creativity, completeness, and insight into solving the given problem | 50% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class participation in discussion and critique
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+On the design assignments - graded on creativity, completeness, and insight into solving the given problem
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| LEC # | TOPICS | ASSIGNMENTS DUE |
-| --- | --- | --- |
-| 1 | {{< h 3 >}}Introduction: the design of mediated interaction{{< /h >}} {{< br >}}{{< br >}} Course overview; big questions in this field; fundamental design concepts {{< br >}}{{< br >}}  | &nbsp; |
-| 2 | {{< h 3 >}}Legibility and abstraction{{< /h >}} {{< br >}}{{< br >}} How to design environments that go beyond copying the everyday physical world, yet remain intuitively comprehensible {{< br >}}{{< br >}}  | Metaphor and design |
-| 3 | {{< h 3 >}}Design review: interaction space; depicting conversation{{< /h >}} {{< br >}}{{< br >}} Maps of conversations can show many things: who participated? What was their role? How did the topic evolve? And these maps can themselves be landscapes, the context for future discussions {{< br >}}{{< br >}}  | Design problem 1: interaction space design |
-| 4 | {{< h 3 >}}Visualizing time and history{{< /h >}} {{< br >}}{{< br >}} The 4th dimension: clocks, calendars and other ways of marking time {{< br >}}{{< br >}}  | Mapping conversations |
-| 5 | {{< h 3 >}}Design review: personal history; varieties of portraiture{{< /h >}} {{< br >}}{{< br >}} Portraits depict appearance, but they have also be made of movements, musical compositions, shopping lists, etc. Introduction to the range and art of portraiture {{< br >}}{{< br >}}  | Design problem 2: personal time-line project |
-| 6 | {{< h 3 >}}Data portraits / depicting people{{< /h >}} {{< br >}}{{< br >}} What are the salient features about a person that makes them recognizable, as an individual or as a social type {{< br >}}{{< br >}}  | Varieties of portraiture |
-| 7 | {{< h 3 >}}Design review: data portrait{{< /h >}} | Design problem 3: concrete and abstract portraits |
-| 8 | {{< h 3 >}}Augmented realities: visible projections and invisible annotations{{< /h >}} {{< br >}}{{< br >}} Lozano-Hemmer; Naimark; Oursler; politics of public space augmentation {{< br >}}{{< br >}}  | Augmented publics / communicating spaces |
-| 9 | {{< h 3 >}}Final project proposals{{< /h >}} {{< br >}}{{< br >}} Discussion of proposals {{< br >}}{{< br >}}  | Proposal for final project |
-| 10 | {{< h 3 >}}Supertraces{{< /h >}} {{< br >}}{{< br >}} Surveillance and transparency {{< br >}}{{< br >}}  | Supertraces: surveillance, privacy, persuasion |
-| 11 | {{< h 3 >}}Final presentations{{< /h >}} | Finish final projects
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS DUE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Introduction: the design of mediated interaction
+
+Course overview; big questions in this field; fundamental design concepts
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Legibility and abstraction
+
+How to design environments that go beyond copying the everyday physical world, yet remain intuitively comprehensible
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Metaphor and design
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Design review: interaction space; depicting conversation
+
+Maps of conversations can show many things: who participated? What was their role? How did the topic evolve? And these maps can themselves be landscapes, the context for future discussions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Design problem 1: interaction space design
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Visualizing time and history
+
+The 4th dimension: clocks, calendars and other ways of marking time
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Mapping conversations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Design review: personal history; varieties of portraiture
+
+Portraits depict appearance, but they have also be made of movements, musical compositions, shopping lists, etc. Introduction to the range and art of portraiture
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Design problem 2: personal time-line project
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Data portraits / depicting people
+
+What are the salient features about a person that makes them recognizable, as an individual or as a social type
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Varieties of portraiture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Design review: data portrait
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Design problem 3: concrete and abstract portraits
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Augmented realities: visible projections and invisible annotations
+
+Lozano-Hemmer; Naimark; Oursler; politics of public space augmentation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Augmented publics / communicating spaces
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Final project proposals
+
+Discussion of proposals
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Proposal for final project
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Supertraces
+
+Surveillance and transparency
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Supertraces: surveillance, privacy, persuasion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Final presentations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Finish final projects
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
